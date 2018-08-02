@@ -1,6 +1,6 @@
 // This program finds the largest number in a number array
 
-//My code is self documenting
+//My code is self documenting - HAHA We Gotta Comedian HERE! :-P
 function main() {
 
     var myNumberList = [12, 2112, 9000, 1999, 24];
@@ -12,6 +12,13 @@ function main() {
         }
 
 
-    }       console.log("The largest number is " + largestNumber);
+    }       
+
+    console.log("The largest number is " + largestNumber);
 }
 main();
+
+/*
+	KEY: Good job! 
+
+*/
